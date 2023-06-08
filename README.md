@@ -1,0 +1,3 @@
+- 👋 Hola, soy Alejandra
+- 🌱 Actualmente estoy estudiando para ser parte del mundo Tech
+- 💞️ También soy Ingeniera Constructor, pero descubrí mi pasión por la técnología y decidí seguir ese camino
